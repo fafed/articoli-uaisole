@@ -1,0 +1,35 @@
+= L'indice G - Geomagnetic Storm Impact
+Fabio Fedele <fafed@fabioester.it>
+:doctype: article
+:description: Una guida alla lettura dell'indice G di NOAA
+:stem:
+
+Oltre a pubblicare i dati di numerosi strumenti e a redigere report e previsioni per lo space weather, NOAA ha creato anche tre indici di rapida comprensione collegati ai fenomeni dello space weather. Uno di questi indici è *G* (*Geomagnetic Storm Impact*) ovvero l'effetto di una tempesta geomagnetica sulla terra e sulle attività umane. In questo breve articolo vedremo la cause di queste tempeste, gli effetti che possono causare e come leggere i dati provenienti dagli strumenti scientifici pubblicati online.
+
+== L'origine delle tempeste geomagnetiche
+
+La terra ha un proprio campo magnetico generato dal movimento rotatorio e convettivo di un fluido conduttore al suo interno. Anche il sole ha un campo magnetico analogo che, grazie alla sua grande estensione, arriva ad intergire con quello terreste. A differenza del campo terrestre, quello solare non solo è piuttosto variabile ma può essere localmente influenzato da una serie di fenomeni. L'instabilità del campo magnetico solare va a disturbare quello terrestre, che altrimenti sarebbe molto stabile, dando luogo alle tempeste geomagnetiche nella forma di variazioni di intensità e orientamento delle linee stesse del campo.
+
+// https://www.swpc.noaa.gov/phenomena/geomagnetic-storms
+
+Le tempeste geomagnetiche più grandi sono associate alle *CME* (_Coronal Mass Ejections_). Le CME sono espulsioni massive (miliardi di tonnellate) di plasma che portano con se un proprio campo magnetico che va a disturbare quello terrestre. Dal verificarsi della CME alla tempesta geomagnetica può passare da meno di un gorno ad alcuni giorni a seconda della velocità impressa al plasma. Il normale flusso di vento solare proveniente dal sole viene quindi potenziato notevolmente dalle _CME_, ma a questo si aggiunge il disturbo sulla magnetosfera operato dai campi magnetici intrappolati al suo interno.
+
+Le tempeste geomagnetiche minori possono essere generate anche dagli *HSS* (_High Speed Solar Wind Stream_). Anche in questo caso abbiamo un variazione nel vento solare generato dalla combinazione del normale vento  con un flusso aggiuntivo ad alta velocità che comprime il plasma aumentandone la densità creando le *CIR* (_Corotating interaction regions_). Queste regioni ruotano insieme al campo magnetico solare (_corotating_) e individuano le zone dove i venti solari a velocità differenti interagiscono (_interacting regions_). Quando la terra attraversa le _CIR_ il suo campo magnetico viene disturbato. A differenza delle _CME_ l'intensità del disturbo è minore, ma nel tempo riescono a trasferire anche quantità maggiori di energia.
+
+.L'ultima immagine prodotta attraverso il modello predittivo Wang-Sheeley-Arge (WSA)-Enlil. La predizione utilizza i dati raccolti dai satelliti STEREO A e B e da sensori a terra. I dati vengono poi elaborati da un modello matematico. L'immagine mostra la densità del plasma (in alto) e la velocità del vento solare (in basso)
+image::https://services.swpc.noaa.gov/images/animations/enlil/latest.jpg[]
+
+// https://www.swpc.noaa.gov/products/wsa-enlil-solar-wind-prediction
+
+Anche le correnti intense nella magnetosfera, variazioni della ionosfera che influiscono sulla termosfera creano disturbi geomagnetici. Ci sono poi le correnti che girano intorno al nostro pianeta in direzione ovest che creano disturbi. Queste correnti hanno anche un indice specifico chiamato *Dst* (_Disturbance storm time_). Infine ci sono le correnti che seguono i campi magnetici (_field aligned currents_) che poi si collegano alle correnti nella ionosfera delle aurore chiamate _auroral electrojets_. Il risultato combinato di tutti questi disturbi al campo magnetico a terra viene tradotto nell'indice *Kp* che è la base dell'indice *G*.
+
+== Quali sono gli effetti delle tempeste geomagnetiche?
+
+Le tempeste geomangnetiche non hanno alcun impatto sulla vita sulla terra, se non regalare a coloro che vivono nelle aree polari degli stupendi spettacoli legati alle aurore boreali. Purtroppo però, molti manufatti umani, soprattutto quelli di più recente costruzione, sono estremamente sensibili a questi fenomeni. Il riscaldamento dell'atmosfera dovuto all'arrivo di queste particelle con maggiore energia aumenta la densità dell'atmosfera a livello dell'orbita bassa (tra i 300 e i 1000 km) frenando i satelliti come quelli del GPS. Questi stessi satelliti possono anche subire l'alterazione dei parcorsi dei segnali radio con conseguenti errori nel calcolo della posizione. Anche le condutture elettriche e le lunghe linee ad alta tensione possono essere attraversate e danneggiate da correnti geomangetiche indotte (_GIC - Geomagnetic Induced Currents_).
+
+// http://www.physics.usyd.edu.au/~cairns/teaching/lecture11/node4.html
+
+
+
+
+

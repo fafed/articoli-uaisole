@@ -1,0 +1,18 @@
+= La magnetosfera solare
+Fabio Fedele <fafed@fabioester.it>
+:doctype: article
+:description: La magnetosfera solare e come influenza il campo magnetico terrestre
+:stem:
+
+//	Breve premessa sull’argomento
+##	Aurora boreale, fenomeno più noto
+##	Effetti sugli apparati, fenomeno meno noto ma più pericoloso
+##	Evento di Carrington e altri
+##	Osservazione del fenomeno e lettura dei dati
+##	Come ci stiamo difendendo
+##	Prospettive e ricerca
+## Una dinamo ci difende dal Sole
+## Cosa c’è sul sito
+
+Per chi non dedica particolare interesse alla fisica solare il campo magnetico terrestre è solamente quella “forza oscura” che fa ruotare l’ago della bussola o, per chi è più giovane, fa funzionare quella del proprio smartphone. Tra le osservazioni dello spaceweather, o tempo spaziale, è parte rilevante l’Aurora polare (boreale o australe) che lega il vento solare al nostro campo mangetico, proprio quello che anima l’ago della bussola facendolo orientare in direzione nord-sud.
+
